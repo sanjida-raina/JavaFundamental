@@ -14,7 +14,7 @@ public class robotCountdown {
             if (num >= 1) {
                 System.out.println(num);
                 num = num - 1;
-                java.util.concurrent.TimeUnit.SECONDS.sleep(5);
+                
                 
 
             if (num == 0){
